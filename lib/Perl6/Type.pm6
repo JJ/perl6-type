@@ -27,7 +27,7 @@ class Perl6::Type {
         @!mro;
     }
 
-    method c3_merge(@merge_list) {
+    method !c3_merge(@merge_list) {
         my @result;
         my $accepted;
         my $something_accepted = 0;
