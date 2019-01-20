@@ -1,0 +1,8 @@
+{
+    "name"        : "Perl6::Type",
+    "version"     : "0.0.1",
+    "auth"        : "Perl6",
+    "provides"    : {
+        "Perl6::Type"     : "lib/Perl6/Type.pm6"
+    }
+}
